@@ -24,7 +24,7 @@ npm install
 no terminal
 _obs: o terminal precisa estar na pasta do projeto_
 
-### Executrar o projeto no Visual Studio Code
+### Executar o projeto no Visual Studio Code
 
 Depois de adaptar o código para o seu serviço, você pode executar o código no Visual Studio Code e para isso eu recomendo instalar a extensão **Code Runner**.
 Após instalar esta extensão, um ícone, geralmente usado para simbolizar a ação de play, vai aparecer no canto direito da janela, é só apertar e correr para o abraço _(assim espero)_
