@@ -1,16 +1,18 @@
 # Cliente SOAP JavaScript
 
-Olá amigos! Esse é o cliente JavaScript que eu fiz para o meu trabalho
+Olá, amigos! Esse é o cliente JavaScript que eu fiz para o meu trabalho. Se você for o professor Thiago, esse é só um exemplo, **NÃO É O MEU TRABALHO**
 
 ### Como ter o projeto no seu computador?
 
-Abram o terminal e executem o comando:
+Instale o [Node.js](https://nodejs.org/en/)
+
+Abra o terminal e executem o comando:
 
 ```sh
 git clone https://github.com/gabrielemartins/clientejs
 ```
 
-Ou baixem pelo GitHub
+Ou baixe pelo GitHub
 
 ### Instalar dependências
 
