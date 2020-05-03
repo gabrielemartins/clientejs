@@ -1,18 +1,18 @@
 # Cliente SOAP JavaScript
 
-Olá, amigos! Esse é o cliente JavaScript que eu fiz para o meu trabalho. Se você for o professor Thiago, esse é só um exemplo, **NÃO É O MEU TRABALHO**
+Olá, amigos! Esse é o cliente JavaScript que eu fiz para o meu trabalho. Se você for o professor Thiago, um recado: esse é só um exemplo, **NÃO É O MEU TRABALHO**
 
 ### Como ter o projeto no seu computador?
 
 Instale o [Node.js](https://nodejs.org/en/)
 
-Abra o terminal e executem o comando:
+Abra o terminal e execute o comando:
 
 ```sh
 git clone https://github.com/gabrielemartins/clientejs
 ```
 
-Ou baixe pelo GitHub
+Ou baixe o zip pelo GitHub
 
 ### Instalar dependências
 
@@ -26,7 +26,15 @@ npm install
 no terminal
 _obs: o terminal precisa estar na pasta do projeto_
 
-### Executar o projeto no Visual Studio Code
+### Executar o projeto
+
+Abra o terminal, navegue até a pasta do projeto e execute o comando
+
+```sh
+node [nome do arquivo]
+```
+
+### Executar o projeto no Visual Studio Code _(maneira mais intuitiva)_
 
 Depois de adaptar o código para o seu serviço, você pode executar o código no Visual Studio Code e para isso eu recomendo instalar a extensão **Code Runner**.
 Após instalar esta extensão, um ícone, geralmente usado para simbolizar a ação de play, vai aparecer no canto direito da janela, é só apertar e correr para o abraço _(assim espero)_
